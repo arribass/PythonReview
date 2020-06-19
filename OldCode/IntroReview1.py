@@ -50,6 +50,7 @@ pal3 = '012345'
 print(f"the values from 1 to 4 are: {pal3[1:4]}")
 print(f"The length of the word hello is {len(pal1)}")
 print(f"A string representation of a number could be: {str(3.14)}")
+
 # let x be an string variable
 # x.lower, x.capitalize, x.upper, x.count, x.find
 # x.startswith , x.endswith, x.isalnum
