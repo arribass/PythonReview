@@ -73,7 +73,7 @@ fout.close()
 
 x = 30
 y = 0
-if x <15:
+if x < 15:
     y = x+15
 else:
     y = -x
